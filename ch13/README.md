@@ -11,4 +11,7 @@ In a terminal start the Python/Flask server:
 ```
 ./server.py
 ```
-Point the browser to http://localhost:5000
+Point the browser to
+```
+http://localhost:5000
+```
